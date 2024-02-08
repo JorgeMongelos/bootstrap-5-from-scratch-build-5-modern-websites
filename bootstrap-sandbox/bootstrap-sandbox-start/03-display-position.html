@@ -12,64 +12,65 @@
       <h1 class="mb-5">Display & Position</h1>
 
       <!-- Display None -->
-      <p class="">This text is hidden</p>
+      <p class="d-none">This text is hidden</p><!-- d-none -->
 
       <br /><br />
 
       <!-- Display Inline -->
-      <div class="">This text is inline</div>
-      <div class="">This text is inline</div>
+      <div class="d-inline">This text is inline</div><!-- d-inline -->
+      <div class="d-inline">This text is inline</div><!-- d-inline -->
 
       <br /><br />
 
       <!-- Display Block -->
-      <span class="">This span is block</span>
-      <span class="">This span is block</span>
+      <span class="d-block">This span is block</span><!-- d-block -->
+      <span class="d-block">This span is block</span><!-- d-block -->
 
       <br /><br />
 
       <!-- Display Inline Block -->
-      <span class="" style="width: 500px">This span is inline-block</span>
-      <span class="">This span is inline-block</span>
+      <span class="d-inline-block" style="width: 500px">This span is inline-block</span><!-- d-inline-block -->
+      <span class="d-inline-block">This span is inline-block</span><!-- d-inline-block -->
 
       <br /><br />
 
       <!-- Hide on small screens -->
-      <div class="">This div is hidden on mobile</div>
+      <div class="d-none d-md-block">This div is hidden on mobile</div><!-- d-none d-md-block -->
 
       <br /><br />
 
       <!-- Hide on medium screens and up -->
-      <div class="">This div is hidden on medium screens and up</div>
+      <div class="d-block d-md-none">This div is hidden on medium screens and up</div> <!-- d-block d-md-none -->
 
       <br /><br />
 
       <!-- POSITIONING -->
 
       <!-- Position Static -->
-      <p class="">This text is static</p>
+      <p class="position-static">This text is static</p><!-- position-static -->
 
       <br /><br />
+      
+      <div class="position-relative" style="height: 200px; width: 200px; background: #ccc">
 
-      <div
-        class=""
-        style="height: 200px; width: 200px; background: #ccc"
-      ></div>
+        <p class="position-absolute start-0 bottom-0" style="top:40px"></p><!-- position-absolute start-0 bottom-0  style="top:40px"-->
+      
+      </div><!-- position-relative -->
 
       <br /><br />
 
       <!-- Position Fixed -->
-      <p class="">This text is fixed</p>
+      <p class="position-fixed">This text is fixed</p><!-- position-fixed -->
 
       <br /><br />
 
-      <p class="">This text is fixed top</p>
-      <p class="">This text is fixed bottom</p>
+      <p class="fixed-top">This text is fixed top</p><!-- fixed-top -->
+      <p class="fixed-bottom">This text is fixed bottom</p><!-- fixed-bottom -->
 
       <br /><br />
 
       <!-- Sticky Top -->
-      <p class="">This text is sticky top</p>
+      <p class="">This text is sticky top</p><!--  -->
 
       <br /><br />
 
@@ -133,7 +134,7 @@
         placeat, reiciendis eligendi saepe officiis nihil rerum odio ratione
         illo voluptatibus ipsa consequuntur dicta voluptatum impedit? Aperiam
         veritatis fugit totam. Labore.
-      </p>
+      </p><!--  -->
       <!-- Don't go past here -->
     </div>
     <div style="margin-top: 350px"></div>

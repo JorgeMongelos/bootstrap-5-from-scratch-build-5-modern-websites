@@ -1,11 +1,27 @@
 # Section 1: Getting Started.
 ## What is Bootstrap?
+
 ![What is Bootstrap?](./images/1-what-is-bootstrap.png)
 ![Prerequisites](./images/2-Prerequisites.png)
 ![Advantages of Bootstrap](./images/3-advantages-of-bootstrap.png)
 ![Is Bootstrap dead?](./images/4-is-bootstra-dead.png)
 
 ## How to use Bootstrap 
+<table>
+    <thead>
+    </thead>
+    <tbody>
+      <tr>
+        <td>CDN</td>
+        <td>
+          <ul>
+            <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+          </ul>
+      </td>
+      </tr>
+    </tbody>
+</table> 
+
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -23,13 +39,20 @@
 </html>
 ```
 ## Basic Environment Setup
-[Visual Studio Code](https://code.visualstudio.com/download)
-[Node js](https://nodejs.org/en)
-[Git&Github](https://git-scm.com/downloads) 
 <table>
     <thead>
     </thead>
     <tbody>
+      <tr>
+        <td>Downloads</td>
+        <td>
+          <ul>
+            <li> <a href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
+            <li><a href="https://nodejs.org/en">Node.js</a></li>
+            <li><a href="https://git-scm.com/downloads">Git & Github</a></li>
+          </ul>
+      </td>
+      </tr>
       <tr>
         <td>Visual Studio</br> 
         Extensions</td>
