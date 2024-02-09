@@ -548,65 +548,65 @@
 
       <!-- Padding All -->
       <div class="text-bg-dark my-1 p-1">Lorem, ipsum dolor.</div><!-- text-bg-dark my-1 p-1 -->
-      <div class="text-bg-dark my-2 p-1">Lorem, ipsum dolor.</div><!-- text-bg-dark my-2 p-1 -->
-      <div class="text-bg-dark my-3 p-1">Lorem, ipsum dolor.</div><!-- text-bg-dark my-3 p-1 -->
-      <div class="text-bg-dark my-4 p-1">Lorem, ipsum dolor.</div><!-- text-bg-dark my-4 p-1 -->
-      <div class="text-bg-dark my-5 p-1">Lorem, ipsum dolor.</div><!-- text-bg-dark my-5 p-1 -->
+      <div class="text-bg-dark my-2 p-2">Lorem, ipsum dolor.</div><!-- text-bg-dark my-2 p-2 -->
+      <div class="text-bg-dark my-3 p-3">Lorem, ipsum dolor.</div><!-- text-bg-dark my-3 p-3 -->
+      <div class="text-bg-dark my-4 p-4">Lorem, ipsum dolor.</div><!-- text-bg-dark my-4 p-4 -->
+      <div class="text-bg-dark my-5 p-5">Lorem, ipsum dolor.</div><!-- text-bg-dark my-5 p-5 -->
 
       <!-- Padding Top & Bottom -->
-      <div class="text-bg-success py-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-success py-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-success py-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-success py-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-success py-2">Lorem, ipsum dolor.</div><!--  -->
+      <div class="text-bg-success py-1">Lorem, ipsum dolor.</div><!-- text-bg-success py-1 -->
+      <div class="text-bg-success py-2">Lorem, ipsum dolor.</div><!-- text-bg-success py-2 -->
+      <div class="text-bg-success py-3">Lorem, ipsum dolor.</div><!-- text-bg-success py-3 -->
+      <div class="text-bg-success py-4">Lorem, ipsum dolor.</div><!-- text-bg-success py-4 -->
+      <div class="text-bg-success py-5">Lorem, ipsum dolor.</div><!-- text-bg-success py-5 -->
 
       <!-- Padding Left & Right -->
-      <div class="text-bg-danger my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-danger my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-danger my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-danger my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-danger my-2">Lorem, ipsum dolor.</div><!--  -->
+      <div class="text-bg-danger my-1 px-1">Lorem, ipsum dolor.</div><!-- text-bg-danger my-1 px-1 -->
+      <div class="text-bg-danger my-2 px-2">Lorem, ipsum dolor.</div><!-- text-bg-danger my-2 px-2 -->
+      <div class="text-bg-danger my-3 px-3">Lorem, ipsum dolor.</div><!-- text-bg-danger my-3 px-3 -->
+      <div class="text-bg-danger my-4 px-4">Lorem, ipsum dolor.</div><!-- text-bg-danger my-4 px-4 -->
+      <div class="text-bg-danger my-5 px-5">Lorem, ipsum dolor.</div><!-- text-bg-danger my-5 px-5 -->
 
       <!-- Padding Top -->
-      <div class="text-bg-info my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-info my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-info my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-info my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-info my-2">Lorem, ipsum dolor.</div><!--  -->
+      <div class="text-bg-info my-1 pt-1">Lorem, ipsum dolor.</div><!-- text-bg-info my-1 pt-1 -->
+      <div class="text-bg-info my-2 pt-2">Lorem, ipsum dolor.</div><!-- text-bg-info my-2 pt-2 -->
+      <div class="text-bg-info my-3 pt-3">Lorem, ipsum dolor.</div><!-- text-bg-info my-3 pt-3 -->
+      <div class="text-bg-info my-4 pt-4">Lorem, ipsum dolor.</div><!-- text-bg-info my-4 pt-4 -->
+      <div class="text-bg-info my-5 pt-5">Lorem, ipsum dolor.</div><!-- text-bg-info my-5 pt-5 -->
 
       <!-- Padding Bottom -->
-      <div class="text-bg-warning my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-warning my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-warning my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-warning my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-warning my-2">Lorem, ipsum dolor.</div><!--  -->
+      <div class="text-bg-warning my-1 pb-1">Lorem, ipsum dolor.</div><!-- text-bg-warning my-1 pb-1 -->
+      <div class="text-bg-warning my-2 pb-2">Lorem, ipsum dolor.</div><!-- text-bg-warning my-2 pb-2 -->
+      <div class="text-bg-warning my-3 pb-3">Lorem, ipsum dolor.</div><!-- text-bg-warning my-3 pb-3 -->
+      <div class="text-bg-warning my-4 pb-4">Lorem, ipsum dolor.</div><!-- text-bg-warning my-4 pb-4 -->
+      <div class="text-bg-warning my-5 pb-5">Lorem, ipsum dolor.</div><!-- text-bg-warning my-5 pb-5 -->
 
       <!-- Padding Left/Start -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
+      <div class="text-bg-primary my-1 ps-1">Lorem, ipsum dolor.</div><!-- text-bg-primary my-1 ps-1 -->
+      <div class="text-bg-primary my-2 ps-2">Lorem, ipsum dolor.</div><!-- text-bg-primary my-2 ps-2 -->
+      <div class="text-bg-primary my-3 ps-3">Lorem, ipsum dolor.</div><!-- text-bg-primary my-3 ps-3 -->
+      <div class="text-bg-primary my-4 ps-4">Lorem, ipsum dolor.</div><!-- text-bg-primary my-4 ps-4 -->
+      <div class="text-bg-primary my-5 ps-5">Lorem, ipsum dolor.</div><!-- text-bg-primary my-5 ps-5 -->
 
       <!-- Padding Right/End -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
-      <div class="text-bg-primary my-2">Lorem, ipsum dolor.</div><!--  -->
+      <div class="text-bg-primary my-1 pe-1">Lorem, ipsum dolor.</div><!-- text-bg-primary my-1 pe-1 -->
+      <div class="text-bg-primary my-2 pe-2">Lorem, ipsum dolor.</div><!-- text-bg-primary my-2 pe-2 -->
+      <div class="text-bg-primary my-3 pe-3">Lorem, ipsum dolor.</div><!-- text-bg-primary my-3 pe-3 -->
+      <div class="text-bg-primary my-4 pe-4">Lorem, ipsum dolor.</div><!-- text-bg-primary my-4 pe-4 -->
+      <div class="text-bg-primary my-5 pe-5">Lorem, ipsum dolor.</div><!-- text-bg-primary my-5 pe-5 -->
 
       <!-- Stacks -->
-      <div class="">
-        <div class="p-2 bg-info">First item</div><!--  -->
-        <div class="p-2 bg-info">Second item</div><!--  -->
-        <div class="p-2 bg-info">Third item</div><!--  -->
-      </div>
+      <div class="vstack gap-3">
+        <div class="p-2 bg-info">First item</div>
+        <div class="p-2 bg-info">Second item</div>
+        <div class="p-2 bg-info">Third item</div>
+      </div><!-- vstack gap-3 -->
 
-      <div class="">
-        <div class="p-2 text-bg-success">First item</div><!--  -->
-        <div class="p-2 text-bg-success">Second item</div><!--  -->
-        <div class="p-2 text-bg-success">Third item</div><!--  -->
-      </div>
+      <div class="hstack gap-3">
+        <div class="p-2 text-bg-success">First item</div>
+        <div class="p-2 text-bg-success">Second item</div>
+        <div class="p-2 text-bg-success">Third item</div>
+      </div><!-- hstack gap-3 -->
 
       <!-- Don't go past here -->
     </div>
@@ -616,6 +616,274 @@
   </body>
 </html>
 ```
+## Sizing, Borders and Shadows.
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <title>Bootstrap Sandbox | Sizing, Borders & Shadows</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Sizing, Borders & Shadows</h1>
+
+      <!-- Width -->
+      <div class="bg-success text-white p-3 w-25">Width 25%</div>   <!-- bg-success text-white p-3 w-25 -->
+      <div class="bg-success text-white p-3 w-50">Width 50%</div>   <!-- bg-success text-white p-3 w-50 -->
+      <div class="bg-success text-white p-3 w-75">Width 75%</div>   <!-- bg-success text-white p-3 w-75 -->
+      <div class="bg-success text-white p-3 w-100">Width 100%</div> <!-- bg-success text-white p-3 w-100 -->
+      <div class="bg-success text-white p-3 w-auto">Width Auto</div><!-- bg-success text-white p-3 w-auto -->
+
+      <br /><br />
+
+      <!-- Height -->
+      <div style="height: 300px; border: 1px solid #333">
+        <div class="bg-primary text-white d-inline-block h-25">Height 25%</div>   <!-- bg-primary text-white d-inline-block h-25 -->
+        <div class="bg-primary text-white d-inline-block h-50">Height 50%</div>   <!-- bg-primary text-white d-inline-block h-50 -->
+        <div class="bg-primary text-white d-inline-block h-75">Height 75%</div>   <!-- bg-primary text-white d-inline-block h-75 -->
+        <div class="bg-primary text-white d-inline-block h-100">Height 100%</div> <!-- bg-primary text-white d-inline-block h-100 -->
+        <div class="bg-primary text-white d-inline-block h-auto">Height Auto</div><!-- bg-primary text-white d-inline-block h-auto -->
+      </div>
+
+      <br /><br />
+
+      <!-- Borders -->
+      <div class="p-3 mb-2 bg-light border border">Regular</div>             <!-- p-3 mb-2 bg-light border border -->
+      <div class="p-3 mb-2 bg-light border border-top">Border Top</div>      <!-- p-3 mb-2 bg-light border border-top -->
+      <div class="p-3 mb-2 bg-light border border-bottom">Border Bottom</div><!-- p-3 mb-2 bg-light border border-bottom -->
+      <div class="p-3 mb-2 bg-light border border-start">Border Right</div>  <!-- p-3 mb-2 bg-light border border-start -->
+      <div class="p-3 mb-2 bg-light border border-end">Border Left</div>     <!-- p-3 mb-2 bg-light border border-end -->
+
+      <br /><br />
+
+      <!-- Border Colors -->
+      <div class="p-3 mb-2 bg-light border border-primary">Primary</div>    <!-- p-3 mb-2 bg-light border border-primary -->
+      <div class="p-3 mb-2 bg-light border border-secondary">Secondary</div><!-- p-3 mb-2 bg-light border border-econdary -->
+      <div class="p-3 mb-2 bg-light border border-success">Success</div>    <!-- p-3 mb-2 bg-light border border-success -->
+      <div class="p-3 mb-2 bg-light border border-info">Info</div>          <!-- p-3 mb-2 bg-light border border-info -->
+      <div class="p-3 mb-2 bg-light border border-warning">Warning</div>    <!-- p-3 mb-2 bg-light border border-warning -->
+      <div class="p-3 mb-2 bg-light border border-danger">Danger</div>      <!-- p-3 mb-2 bg-light border border-danger -->
+      <div class="p-3 mb-2 bg-light border border-light">Light</div>        <!-- p-3 mb-2 bg-light border border-light -->
+      <div class="p-3 mb-2 bg-light border border-dark">Dark</div>          <!-- p-3 mb-2 bg-light border border-dark -->
+      <div class="p-3 mb-2 bg-light border border-white">White</div>        <!-- p-3 mb-2 bg-light border border-white -->
+
+      <br /><br />
+
+      <!-- Border Radius -->
+      <div class="p-3 mb-2 bg-light border rounded">Rounded</div>                   <!-- p-3 mb-2 bg-light border rounded -->
+      <div class="p-3 mb-2 bg-light border rounded-top">Rounded Top</div>           <!-- p-3 mb-2 bg-light border rounded-top -->
+      <div class="p-3 mb-2 bg-light border rounded-bottom">Rounded Bottom</div>     <!-- p-3 mb-2 bg-light border rounded-bottom -->
+      <div class="p-3 mb-2 bg-light border rounded-end">Rounded Right</div>         <!-- p-3 mb-2 bg-light border rounded-end -->
+      <div class="p-3 mb-2 bg-light border rounded-start">Rounded Left</div>        <!-- p-3 mb-2 bg-light border rounded-start -->
+      <div class="p-3 mb-2 bg-light w-25 border rounded-circle">Rounded Circle</div><!-- p-3 mb-2 bg-light w-25 border rounded-circle -->
+      <div class="p-3 mb-2 bg-light border rounded-1">Rounded 1</div>               <!-- p-3 mb-2 bg-light border rounded-1 -->
+      <div class="p-3 mb-2 bg-light border rounded-2">Rounded 2</div>               <!-- p-3 mb-2 bg-light border rounded-2 -->
+      <div class="p-3 mb-2 bg-light border rounded-3">Rounded 3</div>               <!-- p-3 mb-2 bg-light border rounded-3 -->
+      <div class="p-3 mb-2 bg-light border rounded-4">Rounded 4</div>               <!-- p-3 mb-2 bg-light border rounded-4 -->
+      <div class="p-3 mb-2 bg-light border rounded-5">Rounded 5</div>               <!-- p-3 mb-2 bg-light border rounded-5 -->
+
+      <!-- Shadows -->
+      <div class="p-3 mb-5 shadow-none">No shadow</div>      <!-- p-3 mb-5 shadow-none -->
+      <div class="p-3 mb-5 shadow-sm">Small shadow</div>     <!-- p-3 mb-5 shadow-sm -->
+      <div class="p-3 mb-5 shadow">Regular shadow</div>      <!-- p-3 mb-5 shadow -->
+      <div class="p-3 mb-5 shadow-lg">Larger shadow</div>    <!-- p-3 mb-5 shadow-lg -->
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+```
+## Breakpoints.
+![Default Breakpoints](./images/7-default-breakpoints.png)
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <style>
+      /*  X-Small devices (portrait phones, less than 576px) */
+      body {
+        background: gray;
+      }
+
+      /* `sm` applies to x-small devices (portrait phones, less than 576px) */
+      @media (min-width: 576px ) {
+        body{
+          background: red;
+        }
+      }
+
+      /* `md` applies to small devices (landscape phones, less than 768px) */
+      @media (min-width: 768px) {
+        body{
+          background: blue;
+        }
+      }
+      /* `lg` applies to medium devices (tablets, less than 992px) */
+      @media (min-width: 991px) {
+        body{
+          background: green;
+        }
+      }
+      /* `xl` applies to large devices (desktops, less than 1200px) */
+      @media (min-width: 1199px) {
+        body{
+          background: yellow;
+        }
+      }
+      /* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+      @media (min-width: 1399px) {
+        body{
+          background: purple;
+        }
+      }
+    </style>
+    <title>Bootstrap Sandbox | Breakpoints</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Breakpoints</h1>
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+```
+## Buttons
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <title>Bootstrap Sandbox | Buttons</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Buttons</h1>
+
+      <!-- Styles -->
+      <button class="btn btn-primary">Primary</button>    <!-- btn btn-primary -->
+      <button class="btn btn-secondary">Secondary</button><!-- btn btn-secondary -->
+      <button class="btn btn-success">Success</button>    <!-- btn btn-success -->
+      <button class="btn btn-danger">Danger</button>      <!-- btn btn-danger -->
+      <button class="btn btn-warning">Warning</button>    <!-- btn btn-warning -->
+      <button class="btn btn-info">Info</button>          <!-- btn btn-info -->
+      <button class="btn btn-light">Light</button>        <!-- btn btn-light -->
+      <button class="btn btn-dark">Dark</button>          <!-- btn btn-dark -->
+      <button class="btn btn-link">Link</button>          <!-- btn btn-link -->
+
+      <br /><br />
+
+      <!-- Button Sizes -->
+      <button class="btn btn-primary">Regular</button>     <!-- btn btn-primary -->
+      <button class="btn btn-success btn-sm">Small</button><!-- btn btn-success btn-sm -->
+      <button class="btn btn-danger btn-lg">Large</button> <!-- btn btn-danger btn-lg -->
+
+      <br /><br />
+
+      <!-- Button States -->
+      <button class="btn btn-primary">Regular</button>          <!-- btn btn-primary -->
+      <button class="btn btn-primary disabled">Disabled</button><!-- btn btn-primary disabled -->
+      <button class="btn btn-primary active">Active</button>    <!-- btn btn-primary active -->
+
+      <br /><br />
+
+      <!-- Outline Buttons -->
+      <button class="btn btn-outline-primary">Primary</button>    <!-- btn btn-outline-primary -->
+      <button class="btn btn-outline-secondary">Secondary</button><!-- btn btn-outline-secondary -->
+      <button class="btn btn-outline-success">Success</button>    <!-- btn btn-outline-success -->
+      <button class="btn btn-outline-danger">Danger</button>      <!-- btn btn-outline-danger -->
+      <button class="btn btn-outline-warning">Warning</button>    <!-- btn btn-outline-warning -->
+      <button class="btn btn-outline-info">Info</button>          <!-- btn btn-outline-info -->
+      <button class="btn btn-outline-light">Light</button>        <!-- btn btn-outline-light -->
+      <button class="btn btn-outline-dark">Dark</button>          <!-- btn btn-outline-dark -->
+
+      <br /><br />
+
+      <!-- Links Formatted as Buttons -->
+      <a href="#" class="btn btn-primary">Link Button</a>         <!-- btn btn-primary -->
+      <a href="#" class="btn btn-primary btn-lg">Link Button</a>  <!-- btn btn-primary btn-lg -->
+      <a href="#" class="btn btn-primary disabled">Link Button</a><!-- btn btn-primary disabled-->
+
+      <br /><br />
+
+      <!-- Block Buttons -->
+      
+      <div class="d-grid vstack gap-3"><!-- d-grid -->
+        <button class="btn btn-primary">Submit</button>
+        <button class="btn btn-danger">Cancel</button> 
+      </div>
+
+      <br /><br />
+
+      <!-- Button Group -->
+      <div class="btn-group hstack gap-3" role="group"><!-- class="btn-group hstack gap-3" role="group" -->
+        <button class="btn btn-primary">Left</button>
+        <button class="btn btn-secondary">Middle</button>
+        <button class="btn btn-primary">Right</button>
+      </div>
+
+      <br /><br />
+
+      <!-- Button Toolbar -->
+      <div class="btn-toolbar" role="toolbar"><!-- class="btn- hstack gap-3" role="group" -->
+
+        <div class="btn-group me-3" role="group">
+          <button class="btn btn-primary">1</button>
+          <button class="btn btn-secondary">2</button>
+          <button class="btn btn-primary">3</button>
+        </div>
+
+        <div class="btn-group " role="group">
+          <button class="btn btn-primary">4</button>
+          <button class="btn btn-secondary">5</button>
+          <button class="btn btn-primary">6</button>
+        </div>
+      </div>
+
+       <br /><br />
+     
+
+      <!-- Dropdown Button -->
+     <div class="dropdown"><!-- class="dropdown" -->
+
+      <button class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown">Dropdown Button</button><!-- class="dropdown-toggle" data-bs-toggle="dropdown" -->
+
+      <ul class="dropdown-menu"><!-- class="dropdown-menu" -->
+        <li><a href="#" class="dropdown-item">Link 1</a></li><!-- class="dropdown-item" -->
+        <li><a href="#" class="dropdown-item">Link 2</a></li><!-- class="dropdown-item" -->
+        <li><a href="#" class="dropdown-item">Link 3</a></li><!-- class="dropdown-item" -->
+      </ul>
+     </div>
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+```
+## Navbar.
+```HTML
+
+```
+
 # Template
 <table>
     <thead>
@@ -648,9 +916,9 @@
         </td>
         <td>
           <ul>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
             <li></li>
           </ul>
       </td>
