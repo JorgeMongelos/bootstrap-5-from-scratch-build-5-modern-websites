@@ -11,25 +11,123 @@
     <h1 class="mb-5">Navbar</h1>
 
     <!-- Simple Navbar -->
-    <nav class="navbar navbar-expand-md bg-light">                                                   <!--  class="navbar navbar-expand-md bg-light" -->
-      <div class="container">                                                                        <!-- class="container"-->
-        <a href="#" class="navbar-brand">Navbar</a>                                                  <!-- class="navbar-brand" -->
-        <button class="navbar-toggle" data-bs-toggle="collapse" data-bs-target="#navbarNav"></button><!-- class="navbar-toggle" data-bs-toggle="collapse" data-bs-target="#navbarNav"-->
+    <nav class="navbar navbar-expand-md bg-light"> <!-- class="navbar navbar-expand-md bg-light" -->
+
+      <div class="container">                      <!-- class="container"-->
+        <a href="#" class="navbar-brand">Navbar</a><!-- class="navbar-brand" -->
+
+        <button type="button" 
+        data-bs-toggle="collapse" 
+        data-bs-target="#navbarNav"
+        class="navbar-toggler">
+
+      <!-- type="button" 
+           data-bs-toggle="collapse" 
+           data-bs-target="#navbarNav"
+          class="navbar-toggler"-->
+
+           <span class="navbar-toggler-icon"></span> <!-- class="navbar-toggler-icon" -->
+
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav"><!-- class="collapse" navbar-collapse id="navbarNav" -->
+
+          <ul class="navbar-nav ms-auto"><!-- class="navbar-nav ms-auto" -->
+            
+              <li class="nav-item"><!-- class="nav-item"-->
+                <a href="#" class="nav-link active">Home</a><!-- class="nav-link active"-->
+              </li>
+              <li class="nav-item"><!-- class="nav-item"-->
+                <a href="#" class="nav-link active">About</a><!-- class="nav-link active"-->
+              </li>
+              <li class="nav-item"><!-- class="nav-item"-->
+                <a href="#" class="nav-link active">Services</a><!-- class="nav-link active"-->
+              </li>
+              <li class="nav-item"><!-- class="nav-item"-->
+                <a href="#" class="nav-link active">Contact</a><!-- class="nav-link active"-->
+              </li>
+
+          </ul>
+        </div>
       </div>
     </nav>
     <br /><br />
 
     <!-- Color Variant -->
+    <nav class="navbar navbar-expand-md bg-primary navbar-dark"> <!-- class="bg-dark || bg-xcolor navbar-dark" -->   
+      <div class="container">                 
+        <a href="#" class="navbar-brand">Navbar</a>
+        <button type="button" 
+        data-bs-toggle="collapse" 
+        data-bs-target="#navbarNav"
+        class="navbar-toggler">
+           <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Home</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link active">About</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Services</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Contact</a>
+              </li>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
 
     <br /><br />
 
     <!-- Fixed Top -->
+    <nav class="navbar navbar-expand-md fixed-top bg-dark navbar-dark"> <!-- class="fixed-top bg-dark navbar-dark" -->   
+      <div class="container">                 
+        <a href="#" class="navbar-brand">Navbar</a>
+        <button type="button" 
+        data-bs-toggle="collapse" 
+        data-bs-target="#navbarNav"
+        class="navbar-toggler">
+           <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Home</a>
+              </li>
+              <li class="nav-item">
+                <a href="#about"  class="nav-link active">About</a><!-- section link = href="#about"-->
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Services</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Contact</a>
+              </li>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
 
     <!-- Form In Navbar -->
+    <nav class="navbar navbar-expand-md bg-warning navbar-dark">    
+      <div class="container">                 
+        <a href="#" class="navbar-brand">Navbar</a>
+        <form class="d-flex" role="search">            <!-- class="d-flex" role="search" -->
+          <input type="text" class="form-control me-2"><!-- class="form-control me-2" -->
+          <button class="btn btn-dark">Search</button>
+        </form>
+      </div>
+    </nav>
 
     <br /><br />
 
-    <p>
+    <p id="about"><!-- section link = href="#about"-->
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga magni
       delectus libero eius necessitatibus. Aut quos eos ex non porro inventore
       minima, rerum magnam voluptate, ad doloremque fugiat perferendis obcaecati
