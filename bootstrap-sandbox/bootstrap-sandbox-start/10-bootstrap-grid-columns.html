@@ -125,42 +125,103 @@
       <!-- Responsive Grid -->
       <div class="row bg-info"> <!-- class="row"-->
   
-        <div class="col-md-6 border">6 of 12</div><!-- class="col bg-light border"-->
-        <div class="col-md-6 border">12 of 12</div><!-- class="col bg-light border"-->
+        <div class="col-md-6 border">6 of 12</div> <!-- class="col-md-6 border" -->
+        <div class="col-md-6 border">12 of 12</div><!-- class="col-md-6 border"-->
       
       </div>
       <div class="row bg-info"> <!-- class="row"-->
   
-        <div class="col-sm-6 border">6 of 12</div><!-- class="col bg-light border"-->
-        <div class="col-sm-6 border">6 of 12</div><!-- class="col bg-light border"-->
-        <div class="col-sm-6 border">6 of 12</div><!-- class="col bg-light border"-->
-        <div class="col-sm-6 border">12 of 12</div><!-- class="col bg-light border"-->
+        <div class="col-sm-6 col-lg-4 bg-light border">6 of 12</div><!-- class="col-sm-6 col-lg-4 bg-light border""-->
+        <div class="col-sm-6 col-lg-4 bg-light border">6 of 12</div><!-- class="col-sm-6 col-lg-4 bg-light border""-->
+        <div class="col-sm-6 col-lg-4 bg-light border">6 of 12</div><!-- class="col-sm-6 col-lg-4 bg-light border""-->
+        <div class="col-sm-6 col-lg-4 bg-light border">12 of 12</div><!--class="col-sm-6 col-lg-4 bg-light border""-->
       
       </div>
       <br /><br />
 
       <!-- Row Cols -->
-
-      <br /><br />
-
-      <br /><br />
+      <div class="row row-cols-3"><!-- class="row row-cols-3" -->
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+      </div>
+      <div class="row row-cols-1 row-cols-md-2 row cols-lg-3"><!-- class="row row-cols-1 row-cols-md-2 row cols-lg-3" -->
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+        <div class="col bg-light border">Column</div>
+      </div>
+      <br/><br/>
 
       <!-- Nesting -->
+      <div class="row">
+        <div class="col bg-light border pb-3">Column</div>
+        <div class="col bg-light border pb-3">Column</div>
+        <div class="col bg-light border pb-3"><!-- Nesting -->
+          <div class="row">
+            <div class="col text-bg-dark">Nest</div>  
+            <div class="col text-bg-dark">Nest</div>   
+          </div> 
+        </div>
+      </div>
 
       <br /><br />
 
       <!-- Gutters -->
+      <div class="row g-0"><!-- class="row g-0/1/2/3/4/5" -->
+        <div class="col-md-4">
+          <div class="p-3 text-bg-primary">
+            Content Item
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="p-3 text-bg-primary">
+            Content Item
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="p-3 text-bg-primary">
+            Content Item
+          </div>
+        </div>
+      </div>
 
       <br /><br />
 
       <!-- Offsetting Columns -->
-
+      <div class="row ">
+        <div class="col-md-4 offset-4"><!-- class="row offset-4" -->
+          <div class="p-3 text-bg-primary">
+            Content Item
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="p-3 text-bg-primary">
+            Content Item
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 offset-3 border"><!-- class="col-md-6 offset-3"-->
+      Hello World  
+        </div>
+      </div>
       <br /><br />
 
       <!-- Ordering -->
-
+      <div class="row">
+        <div class="col bg-light border order-4">Column 1</div><!-- class="order-4" -->
+        <div class="col bg-light border order-3">Column 2</div><!-- class="order-3" -->
+        <div class="col bg-light border order-2">Column 3</div><!-- class="order-2" -->
+        <div class="col bg-light border order-1">Column 4</div><!-- class="order-1" -->
+      </div>
       <!-- Don't go past here -->
-    </div>
+    </div>>
     <div style="margin-top: 350px"></div>
 
     <script src="./assets/js/bootstrap.bundle.min.js"></script>
